@@ -1,9 +1,10 @@
-<img width="666" alt="Dashboard2" src="https://github.com/user-attachments/assets/4ad5893e-14da-446d-a831-a0fffcf679d5" /># 📊 Walmart Sales Analysis Dashboard (2023)
 
 ## Overview
 This project presents a dynamic and interactive **Sales Dashboard** designed to analyze Walmart’s sales performance in 2023. As the **Data Analyst & Business Intelligence (BI) Expert**, I developed this dashboard to provide a clear, actionable view of key performance indicators (KPIs) such as total sales, profit, quantity sold, and category-level insights.
 
 <img width="666" alt="Dashboard2" src="https://github.com/user-attachments/assets/80a802e9-ef7f-4678-922a-a7967e58e359" />
+<img width="666" alt="Dashboard" src="https://github.com/user-attachments/assets/349477fd-7cde-432f-ae6c-37fec3e41a59" />
+
 
 
 
